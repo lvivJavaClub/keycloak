@@ -1,0 +1,12 @@
+{
+  "realm": "stage",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "jclub-client",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "f4e76ef8-c034-449d-bb27-1f4d69769d42"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
